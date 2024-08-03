@@ -1,1 +1,3 @@
-print("hello world")
+variabel= "contoh variabel"
+
+print(variabel)
